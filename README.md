@@ -1,6 +1,6 @@
-# Turkish Word/Phrase List
+# Türkçe Kelime/İfade Listesi
 
-This list is created and can be maintained via [VikiSözlük](http://tr.wiktionary.org/wiki/Vikisözlük:Sözcük_listesi). `collector.py` file can be used to get the most recent list and write it to a file.
+Bu liste oluşturulur ve aracılığıyla muhafaza edilebilir [VikiSözlük](http://tr.wiktionary.org/wiki/Vikisözlük:Sözcük_listesi). `collector.py` file, en son listeyi almak ve bir dosyaya yazmak için kullanılabilir..
 
-## Statistics
-- total number of words/phrases: 63840
+## İstatistik
+- toplam kelime/ifade sayısı: 63840
